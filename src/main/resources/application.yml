@@ -1,0 +1,11 @@
+app:
+  name: demoservice
+  version: 1.0
+  server:
+    port: 9090
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: rashmnrashmi@gmail.com2
+    password: Omsr1rang@
+    to: ravi.s.bhat@gmail.com
