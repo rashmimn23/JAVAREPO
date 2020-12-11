@@ -66,7 +66,6 @@ public class TutorialMap {
         }
 
 
-/*
 // Role value will be replaced with Tech Lead
         numberMap.put("Role", "Tech Lead");
 
@@ -74,15 +73,13 @@ public class TutorialMap {
         for(String key: keys){
             System.out.println(key + ' ' +numberMap.get(key));
         }
-*/
 
-        /*
 //HashTable
         Map <String, String> numberTable=new Hashtable();
         numberTable.put("Name", "Rashmi");
         numberTable.put("Company", "Mphasis");
         numberTable.put("Role", "Project Manager");
 
-        System.out.println(numberTable );*/
+        System.out.println(numberTable );
     }
 }
